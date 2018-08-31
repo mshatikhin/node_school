@@ -1,3 +1,11 @@
+javascripting
+learnyounode
+how-to-npm
+elementary-electron
+stream-adventure
+how-to-markdown
+learnyouhtml
+
 bytewiser
 expressworks
 bug-clinic
